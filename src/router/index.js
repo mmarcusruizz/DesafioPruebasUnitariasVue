@@ -11,13 +11,13 @@ const routes = [
     component: HomeView
   },
   {
-    path: '/',
-    name: 'home',
+    path: '/about',
+    name: 'about',
     component: AboutView
   },
   {
-    path: '/',
-    name: 'home',
+    path: '/contact',
+    name: 'contact',
     component: ContactView
   },
   {
